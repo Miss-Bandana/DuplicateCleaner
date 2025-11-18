@@ -1,0 +1,44 @@
+# Ignore Visual Studio temporary files, build results, and user files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Publish output
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+
+# VS Code settings
+.vscode/
+
+# Crash dumps
+*.ldf
+*.mdf
+
+# Rider
+.idea/
+
+# XrmToolBox specific
+**/XrmToolBox/*/PluginCache/
+
+# Ignore Test results
+TestResults/
+
+# Ignore images cache
+*.cache
